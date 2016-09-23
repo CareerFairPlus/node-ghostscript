@@ -1,0 +1,31 @@
+{
+  "name": "node-ghostscript",
+  "version": "1.0.0",
+  "description": "A node package to run Ghostscript commands.",
+  "main": "node-ghostscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sina-masnadi/node-ghostscript.git"
+  },
+  "keywords": [
+    "ghostscript",
+    "ghost",
+    "script",
+    "node",
+    "js",
+    "pdf",
+    "to",
+    "png",
+    "image",
+    "converter"
+  ],
+  "author": "Sina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sina-masnadi/node-ghostscript/issues"
+  },
+  "homepage": "https://github.com/sina-masnadi/node-ghostscript#readme"
+}
